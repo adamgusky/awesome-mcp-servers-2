@@ -506,6 +506,17 @@ Create and manage Linear issues, projects, and team workflows.
 - Tags: issues, project-management, product
 - Category: Developer Tools and Code Intelligence
 
+### LynxPrompt MCP Server
+
+Browse, search, create and update LynxPrompt AI configuration blueprints (AGENTS.md, CLAUDE.md) on lynxprompt.com or a self-hosted instance.
+
+- URL: https://github.com/GeiserX/lynxprompt-mcp
+- Language: Go
+- Provider: LynxPrompt
+- Official: yes
+- Tags: agents-md, prompts, ai-rules
+- Category: Developer Tools and Code Intelligence
+
 ### mcp-pool
 
 MCP Key Pool Proxy — pool multiple API keys across upstream MCP servers to distribute rate limits. One subprocess per pool, lazy failover, per-key cooldown.
@@ -1027,7 +1038,7 @@ Manage Workers, KV, R2, and Cloudflare platform resources.
 
 ### DropTheHassle
 
-Puts a site online on a free HTTPS link with no account for a first deploy, or on a .com (€19/$19) that goes live with no DNS after the human pays a link. Optional mailbox. No tool spends money.
+Publishes a site on a free HTTPS link (no account to start) or a .com (€19/$19) that goes live with no DNS after the human pays. Also Edit files, Restore, Collect leads (form messages to your mailbox), a site password and Hide from Google.
 
 - URL: https://github.com/bosmdavid-gif/dropthehassle-mcp
 - Language: JavaScript
@@ -1255,7 +1266,7 @@ Hosted LinkedIn MCP server for your own LinkedIn account: profile, company, peop
 - Official: no
 - Tags: linkedin, sales, remote, oauth
 - Category: Communication and Productivity
-- Streamable HTTP endpoint: https://app.linkmcp.io/api/mcp
+- Streamable HTTP endpoint: https://app.linkmcp.io/api/mcp?ref=mcphq
 
 ### Mailcoach
 
