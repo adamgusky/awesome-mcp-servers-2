@@ -2380,6 +2380,25 @@
     }
   },
   {
+    "name": "Blawgy",
+    "url": "https://github.com/adamgusky/blawgy-mcp",
+    "description": "Hosted SEO blog server that researches keywords, manages the content plan, writes and refreshes articles, reads Search Console traffic, and publishes to WordPress, Shopify, Webflow, Wix, Framer, Ghost or Duda via OAuth or API key.",
+    "category": "data-analytics-and-bi",
+    "language": "JavaScript",
+    "provider": "Blawgy",
+    "tags": [
+      "seo",
+      "blogging",
+      "content",
+      "wordpress",
+      "remote"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://app.blawgy.com/mcp"
+    }
+  },
+  {
     "name": "ORANO",
     "url": "https://oranoai.com/mcp",
     "description": "Read-only access to a user's ORANO library: projects built from saved Reels, videos, articles and PDFs, selectable video context, ordered tasks and curated memory facts.",
